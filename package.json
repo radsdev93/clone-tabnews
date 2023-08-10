@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do conteúdo abordado no https://curso.dev, desenvolvendo um projeto de ponta à ponta.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radsdev93/clone-tabnews"
+  },
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "bf0bc3fe1849c18b3ce723640cf4c262163111eb",
+  "bugs": {
+    "url": "https://github.com/radsdev93/clone-tabnews/issues"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react-dom": "^18.2.0"
+  }
+}
