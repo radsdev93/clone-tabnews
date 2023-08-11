@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Karine, eu te amo! Se você me ama, dá uma risadinha! 🙃</h1>
+    return <img src="https://i.pinimg.com/originals/ff/a2/de/ffa2de19179d718879a1317ceb3f8465.jpg"/>
 }
 
 export default Home;
