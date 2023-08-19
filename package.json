@@ -4,7 +4,9 @@
   "description": "Implementação do conteúdo abordado no https://curso.dev, desenvolvendo um projeto de ponta à ponta.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,8 @@
   "dependencies": {
     "next": "^13.1.6",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.2"
   }
 }
